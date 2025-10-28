@@ -211,3 +211,6 @@ voice/*.aac
 compile/*.o
 compile/*.elf
 compile/*.hex
+
+
+model/*
